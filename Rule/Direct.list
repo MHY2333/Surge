@@ -18,6 +18,9 @@ USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
 # China
 DOMAIN-SUFFIX,cn
 DOMAIN-KEYWORD,baidu
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-KEYWORD,paypal
+USER-AGENT,PayPal*
 # 115
 DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX,115.com
