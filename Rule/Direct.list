@@ -176,3 +176,6 @@ DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,gigsgigscloud.com
 DOMAIN-SUFFIX,linode.com
 DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,cloud.google.com
+DOMAIN-SUFFIX,aws.amazon.com
+DOMAIN-SUFFIX,azure.microsoft.com
